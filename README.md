@@ -1,6 +1,6 @@
 # 👋Hi there
 - 😄 I’m @devshuhei
-- 👀 I’m interested in frontend
+- 👀 I’m interested in end
 - 🌱 I’m currently learning HTML and CSS on freeCodeCamp
 - 📫 How to contact me is [Twitter](https://twitter.com/devshuhei)
 
